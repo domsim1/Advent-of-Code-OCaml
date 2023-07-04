@@ -1,0 +1,5 @@
+(test
+  (name "day_five")
+  (libraries core)
+  (deps data.txt))
+
